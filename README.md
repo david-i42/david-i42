@@ -1,8 +1,8 @@
 # Hello, I'm David
 
-Welcome to my GitHub repository! I am a passionate data scientist with a strong foundation in data analysis and machine learning. My work focuses on extracting insights from data and building models that drive decision-making. Below, you'll find an overview of my skills, projects, and experience.
+Welcome to my GitHub repository! I am a data scientist with a strong foundation in data analysis and machine learning. My work focuses on extracting insights from data and building models that drive decision-making. Here is my stack.
 
-## Skills
+## Stack
 
 - **Programming Languages**: Python
 - **Data Manipulation & Analysis**: Pandas, NumPy, SQL
