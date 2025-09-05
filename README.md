@@ -17,7 +17,7 @@
 </a>
 
 </a>
-<a href="david.i.data.scientist@gmail.com" target="_blank">
+<a href="mailto:david.i.data.scientist@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="50" />
 </a>
 
