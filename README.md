@@ -24,4 +24,4 @@
 | Название проекта | Описание | Стек технологий |
 |-------------|-------------|-------------|
 | [Рекомендательная система ](https://github.com/david-i42/Recomendation_system_project) | Рекомендательная система постов в соцсети, подбирающая наиболее подходящие посты для каждого пользователя  | Python, Numpy, Scikit-learn, CatBoost, FastAPI, Matplotlib, Seaborn, Pandas, SQLAlchemy, SQL, PostgreSQL, Статистический анализ |
-| [SQL-_Numpy_and_Pandas_workflow ](https://github.com/david-i42/SQL-_Numpy_and_Pandas_workflow) | В этом ноутбуке представлены решения задач обработки и извлечения данных при помощи SQL, а также библиотек python pandas и numpy | SQL, Pandas, Numpy |
+| [SQL-_Numpy_and_Pandas_workflow ](https://github.com/david-i42/SQL-_Numpy_and_Pandas_workflow) | В этом ноутбуке представлены решения задач обработки и извлечения данных при помощи SQL, а также библиотек python - pandas и numpy | SQL, Pandas, Numpy |
