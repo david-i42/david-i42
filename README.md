@@ -3,7 +3,7 @@
 Области моего интереса - работа с данными, ML, DL, в данный момент осваиваю CV. Люблю экспериментировать и проверять в деталях устоявшиеся способы к решению задач, с целью их лучшего понимания и создания собственных подходов, а также находить более современные, быстрые и эффективные решения в области DS.
 
 
-# Вот мои контакты 
+# Мои контакты 
 <a href="https://wa.me/+79384555011" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50" />
 
@@ -25,3 +25,4 @@
 |-------------|-------------|-------------|
 | [Рекомендательная система ](https://github.com/david-i42/Recomendation_system_project) | Рекомендательная система постов в соцсети, подбирающая наиболее подходящие посты для каждого пользователя  | Python, Numpy, Scikit-learn, CatBoost, FastAPI, Matplotlib, Seaborn, Pandas, SQLAlchemy, SQL, PostgreSQL, Статистический анализ |
 | [SQL-_Numpy_and_Pandas_workflow ](https://github.com/david-i42/SQL-_Numpy_and_Pandas_workflow) | В этом ноутбуке представлены решения задач обработки и извлечения данных при помощи SQL, а также библиотек python - pandas и numpy | SQL, Pandas, Numpy |
+| [E-CUP 2025 ML Challenge - Контроль качества](https://github.com/david-i42/SQL-_Numpy_and_Pandas_workflow) | ML-пайплайн, который классифицирует товар как контрафакт или оригинал, на основе данных об изображении, тексте, табличных признаках. Метрика - F1-score. | SQL, Pandas, Numpy, sklearn, catboost |
