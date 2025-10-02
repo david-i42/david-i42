@@ -23,7 +23,28 @@
 </a>
 
 # Навыки и умения
-```Python``` ```Numpy``` ```PyTorch``` ```Scikit-learn``` ```CatBoost``` ```FastAPI``` ```Matplotlib``` ```Seaborn``` ```pandas``` ```SQLAlchemy``` ```SQL``` ```PostgreSQL``` ```Git``` ```Apache Airflow``` ```Power BI``` ```MS Excel``` ```MS Access``` ```A/B тесты``` ```Статистический анализ``` ```Analytical skills``` ```API``` ```MS PowerPoint``` ```VBA```
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+
+```Seaborn```,
+```SQL```,
+```SQLAlchemy```,
+```CatBoost```,
+```API```,
+```MS PowerPoint```,
+```VBA```
+
 
 # Мои проекты и учебная деятельность
 | Название проекта | Описание | Стек технологий |
